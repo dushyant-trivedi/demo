@@ -1,1 +1,1 @@
-console.log("eg2.js in bug1 branch");
+console.log("eg2.js in bug2 branch");
